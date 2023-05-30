@@ -1,4 +1,3 @@
-# finalCapstone
 # Word Similarity using spaCy
 
 This code demonstrates how to calculate similarity scores between words using the spaCy library in Python. The code utilizes the 'en_core_web_md' model provided by spaCy.
